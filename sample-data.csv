@@ -1,0 +1,300 @@
+Sex,ChestPain,MajorVessels,ExerciseAngina,HeartDisease
+Male,Typical Angina,Zero,No,No
+Male,Asymptomatic,Three,Yes,Yes
+Male,Asymptomatic,Two,Yes,Yes
+Male,Non-Anginal Pain,Zero,No,No
+Female,Atypical Angina,Zero,No,No
+Male,Atypical Angina,Zero,No,No
+Female,Asymptomatic,Two,No,Yes
+Female,Asymptomatic,Zero,Yes,No
+Male,Asymptomatic,One,No,Yes
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Asymptomatic,Zero,No,No
+Female,Atypical Angina,Zero,No,No
+Male,Non-Anginal Pain,One,Yes,Yes
+Male,Atypical Angina,Zero,No,No
+Male,Non-Anginal Pain,Zero,No,No
+Male,Non-Anginal Pain,Zero,No,No
+Male,Atypical Angina,Zero,No,Yes
+Male,Asymptomatic,Zero,No,No
+Female,Non-Anginal Pain,Zero,No,No
+Male,Atypical Angina,Zero,No,No
+Male,Typical Angina,Zero,Yes,No
+Female,Typical Angina,Zero,No,No
+Male,Atypical Angina,Zero,No,Yes
+Male,Non-Anginal Pain,Two,No,Yes
+Male,Asymptomatic,Two,Yes,Yes
+Female,Non-Anginal Pain,Zero,No,No
+Female,Non-Anginal Pain,Zero,No,No
+Female,Typical Angina,Zero,No,No
+Male,Asymptomatic,Zero,No,No
+Male,Asymptomatic,Zero,Yes,Yes
+Female,Typical Angina,Two,No,No
+Male,Asymptomatic,Two,Yes,Yes
+Male,Non-Anginal Pain,Zero,No,Yes
+Male,Asymptomatic,Zero,No,No
+Male,Non-Anginal Pain,Zero,Yes,No
+Male,Asymptomatic,Zero,No,No
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Asymptomatic,One,Yes,Yes
+Male,Asymptomatic,One,Yes,Yes
+Male,Non-Anginal Pain,Zero,Yes,No
+Female,Asymptomatic,Three,No,Yes
+Male,Typical Angina,Zero,Yes,No
+Female,Atypical Angina,Two,No,No
+Male,Non-Anginal Pain,Zero,No,No
+Female,Asymptomatic,Zero,No,Yes
+Male,Non-Anginal Pain,One,No,Yes
+Male,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,Zero,No,Yes
+Female,Non-Anginal Pain,One,No,No
+Male,Non-Anginal Pain,Zero,No,No
+Female,Atypical Angina,One,No,No
+Male,Asymptomatic,Zero,No,No
+Male,Asymptomatic,One,No,Yes
+Male,Atypical Angina,Zero,No,No
+Male,Asymptomatic,One,Yes,Yes
+Male,Asymptomatic,One,Yes,Yes
+Male,Non-Anginal Pain,One,No,Yes
+Male,Asymptomatic,Zero,No,Yes
+Male,Non-Anginal Pain,One,No,No
+Male,Typical Angina,One,Yes,No
+Female,Asymptomatic,Zero,Yes,Yes
+Female,Non-Anginal Pain,Zero,Yes,No
+Male,Asymptomatic,Three,Yes,Yes
+Female,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,One,No,Yes
+Male,Asymptomatic,Two,Yes,Yes
+Male,Non-Anginal Pain,Zero,No,Yes
+Male,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Non-Anginal Pain,Zero,No,Yes
+Female,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,Two,No,Yes
+Male,Asymptomatic,Two,Yes,Yes
+Male,Asymptomatic,Two,No,Yes
+Male,Asymptomatic,One,No,Yes
+Female,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,One,Yes,Yes
+Female,Non-Anginal Pain,One,No,No
+Male,Atypical Angina,Zero,No,No
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Asymptomatic,Zero,Yes,No
+Female,Asymptomatic,Zero,No,No
+Male,Non-Anginal Pain,Zero,No,No
+Male,Non-Anginal Pain,Zero,Yes,Yes
+Male,Atypical Angina,Zero,No,No
+Male,Non-Anginal Pain,Zero,No,No
+Male,Non-Anginal Pain,Zero,No,No
+Female,Non-Anginal Pain,Zero,No,No
+Female,Asymptomatic,Zero,No,No
+Female,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,Zero,No,No
+Female,Asymptomatic,Three,No,Yes
+Male,Non-Anginal Pain,Three,No,No
+Female,Non-Anginal Pain,Zero,No,No
+Female,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,One,Yes,Yes
+Male,Asymptomatic,One,Yes,Yes
+Female,Asymptomatic,Two,No,Yes
+Male,Atypical Angina,One,No,No
+Male,Asymptomatic,Zero,No,No
+Male,Asymptomatic,Zero,No,No
+Male,Typical Angina,Zero,No,No
+Female,Asymptomatic,One,No,No
+Female,Non-Anginal Pain,One,No,No
+Male,Non-Anginal Pain,Three,No,Yes
+Male,Atypical Angina,Zero,No,No
+Male,Asymptomatic,One,Yes,Yes
+Male,Non-Anginal Pain,One,No,Yes
+Male,Asymptomatic,One,Yes,Yes
+Male,Asymptomatic,Zero,No,Yes
+Female,Asymptomatic,Zero,Yes,Yes
+Male,Asymptomatic,One,Yes,Yes
+Male,Typical Angina,Zero,No,No
+Female,Asymptomatic,Zero,Yes,Yes
+Female,Non-Anginal Pain,One,No,Yes
+Male,Atypical Angina,Zero,No,No
+Male,Non-Anginal Pain,Zero,No,No
+Female,Asymptomatic,Zero,No,No
+Male,Asymptomatic,Three,Yes,Yes
+Male,Asymptomatic,One,No,Yes
+Male,Asymptomatic,Two,Yes,Yes
+Female,Asymptomatic,Three,No,Yes
+Male,Non-Anginal Pain,Zero,Yes,No
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Typical Angina,One,No,Yes
+Female,Atypical Angina,Zero,No,No
+Female,Asymptomatic,Two,Yes,Yes
+Male,Asymptomatic,One,Yes,Yes
+Male,Atypical Angina,Zero,No,No
+Female,Asymptomatic,Zero,No,No
+Male,Non-Anginal Pain,Zero,No,No
+Male,Non-Anginal Pain,One,Yes,No
+Male,Atypical Angina,Zero,No,No
+Male,Asymptomatic,Zero,Yes,No
+Female,Non-Anginal Pain,Zero,No,No
+Female,Atypical Angina,Zero,No,No
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Atypical Angina,One,No,Yes
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Non-Anginal Pain,Zero,No,No
+Male,Atypical Angina,Zero,Yes,No
+Male,Typical Angina,Zero,No,Yes
+Male,Atypical Angina,Zero,No,No
+Male,Non-Anginal Pain,Zero,Yes,Yes
+Male,Non-Anginal Pain,Zero,Yes,No
+Male,Non-Anginal Pain,Zero,No,Yes
+Male,Asymptomatic,Three,No,Yes
+Male,Non-Anginal Pain,Zero,No,No
+Male,Atypical Angina,Zero,No,No
+Female,Non-Anginal Pain,One,No,No
+Male,Typical Angina,Zero,No,No
+Female,Asymptomatic,Zero,No,No
+Female,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,One,Yes,Yes
+Male,Asymptomatic,One,Yes,Yes
+Male,Asymptomatic,Three,No,Yes
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Asymptomatic,Two,No,Yes
+Male,Asymptomatic,Two,No,Yes
+Male,Non-Anginal Pain,One,No,No
+Male,Atypical Angina,Zero,No,No
+Male,Asymptomatic,Three,Yes,Yes
+Female,Non-Anginal Pain,Zero,No,No
+Female,Asymptomatic,Zero,No,No
+Male,Non-Anginal Pain,Two,No,No
+Male,Asymptomatic,Zero,Yes,No
+Female,Atypical Angina,One,Yes,No
+Male,Asymptomatic,Zero,Yes,Yes
+Female,Atypical Angina,Zero,No,No
+Male,Non-Anginal Pain,One,Yes,Yes
+Male,Asymptomatic,Zero,Yes,No
+Female,Asymptomatic,Zero,Yes,Yes
+Female,Asymptomatic,Zero,No,No
+Male,Asymptomatic,Two,No,Yes
+Male,Asymptomatic,One,Yes,Yes
+Male,Asymptomatic,Three,No,No
+Male,Asymptomatic,One,Yes,Yes
+Male,Non-Anginal Pain,One,No,No
+Male,Non-Anginal Pain,Three,No,No
+Male,Asymptomatic,Zero,No,Yes
+Female,Asymptomatic,Two,Yes,Yes
+Male,Typical Angina,Two,No,No
+Male,Typical Angina,Zero,No,No
+Female,Asymptomatic,Zero,No,Yes
+Female,Atypical Angina,Two,No,No
+Male,Non-Anginal Pain,Zero,No,No
+Male,Atypical Angina,Three,Yes,Yes
+Male,Atypical Angina,One,No,Yes
+Male,Non-Anginal Pain,Three,No,Yes
+Male,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,Three,Yes,Yes
+Female,Asymptomatic,Three,No,Yes
+Female,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,Two,Yes,Yes
+Male,Typical Angina,One,No,No
+Female,Asymptomatic,Zero,Yes,No
+Female,Atypical Angina,Zero,No,No
+Male,Typical Angina,Zero,No,Yes
+Female,Asymptomatic,Zero,No,No
+Female,Asymptomatic,Zero,Yes,No
+Male,Non-Anginal Pain,One,No,No
+Female,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,Zero,No,No
+Male,Asymptomatic,Three,Yes,Yes
+Male,Asymptomatic,Two,Yes,Yes
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Atypical Angina,Zero,No,No
+Female,Asymptomatic,Zero,Yes,Yes
+Female,Non-Anginal Pain,Zero,No,No
+Male,Typical Angina,Zero,Yes,Yes
+Male,Non-Anginal Pain,Zero,No,No
+Female,Asymptomatic,Two,Yes,Yes
+Male,Asymptomatic,One,No,Yes
+Male,Typical Angina,Zero,No,No
+Female,Atypical Angina,Zero,No,No
+Female,Asymptomatic,Zero,Yes,No
+Female,Asymptomatic,Two,No,No
+Male,Asymptomatic,Zero,No,No
+Female,Non-Anginal Pain,Zero,Yes,No
+Female,Non-Anginal Pain,Zero,No,No
+Female,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,Two,Yes,Yes
+Female,Asymptomatic,Two,Yes,Yes
+Female,Atypical Angina,Zero,No,No
+Male,Asymptomatic,Zero,No,No
+Female,Non-Anginal Pain,One,No,No
+Male,Asymptomatic,One,Yes,Yes
+Male,Asymptomatic,One,Yes,Yes
+Female,Non-Anginal Pain,Zero,No,No
+Female,Asymptomatic,Zero,Yes,Yes
+Male,Non-Anginal Pain,Three,No,Yes
+Female,Atypical Angina,One,Yes,No
+Female,Non-Anginal Pain,One,No,No
+Male,Asymptomatic,Two,Yes,Yes
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Asymptomatic,Zero,No,Yes
+Female,Atypical Angina,Zero,No,No
+Male,Atypical Angina,Zero,No,No
+Male,Atypical Angina,Zero,No,No
+Female,Atypical Angina,Zero,No,No
+Female,Asymptomatic,Zero,No,No
+Male,Typical Angina,Two,No,Yes
+Female,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,Zero,No,Yes
+Male,Asymptomatic,One,No,Yes
+Male,Asymptomatic,One,Yes,Yes
+Male,Asymptomatic,Two,No,Yes
+Male,Atypical Angina,Zero,No,No
+Male,Asymptomatic,Zero,Yes,No
+Male,Asymptomatic,One,No,Yes
+Male,Asymptomatic,One,Yes,No
+Female,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,Zero,No,No
+Female,Non-Anginal Pain,Zero,No,No
+Female,Asymptomatic,Two,No,No
+Female,Non-Anginal Pain,Zero,No,No
+Male,Atypical Angina,Zero,No,No
+Male,Atypical Angina,Zero,No,Yes
+Female,Non-Anginal Pain,One,No,No
+Female,Atypical Angina,Two,No,Yes
+Female,Typical Angina,Zero,No,No
+Male,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,One,Yes,Yes
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Non-Anginal Pain,One,No,Yes
+Male,Asymptomatic,Zero,No,Yes
+Male,Non-Anginal Pain,Zero,No,No
+Male,Asymptomatic,One,Yes,Yes
+Male,Asymptomatic,Zero,No,No
+Male,Asymptomatic,Two,Yes,Yes
+Female,Asymptomatic,Zero,No,No
+Male,Typical Angina,Two,No,Yes
+Male,Typical Angina,Zero,No,No
+Female,Non-Anginal Pain,One,No,No
+Female,Non-Anginal Pain,Zero,No,No
+Male,Atypical Angina,One,No,Yes
+Female,Asymptomatic,Zero,No,No
+Male,Asymptomatic,One,Yes,Yes
+Male,Non-Anginal Pain,Zero,No,No
+Female,Asymptomatic,One,Yes,Yes
+Male,Atypical Angina,Zero,No,No
+Male,Asymptomatic,One,No,Yes
+Male,Asymptomatic,Three,No,Yes
+Female,Asymptomatic,Two,Yes,Yes
+Male,Atypical Angina,Zero,No,No
+Male,Atypical Angina,Zero,No,No
+Male,Non-Anginal Pain,Zero,No,Yes
+Female,Atypical Angina,Zero,No,No
+Male,Asymptomatic,Zero,Yes,Yes
+Male,Asymptomatic,Two,Yes,Yes
+Female,Asymptomatic,Zero,Yes,Yes
+Male,Atypical Angina,Zero,No,No
+Male,Asymptomatic,Two,No,Yes
+Female,Asymptomatic,Zero,Yes,Yes
+Male,Typical Angina,Zero,No,Yes
+Male,Asymptomatic,Two,No,Yes
+Male,Asymptomatic,One,Yes,Yes
+Female,Atypical Angina,One,No,Yes
